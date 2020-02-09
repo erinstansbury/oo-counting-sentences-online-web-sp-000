@@ -7,6 +7,7 @@ class String
       retun true
     else
       false
+    end
   end
 
   def question?
